@@ -18,4 +18,5 @@ To return to main menu: Escape (Esc)
 
 
 I made this project as a 10 hour project for Hackclub seige week 9 for the theme based on Spooooky
+
 Reviewers have fun :)
